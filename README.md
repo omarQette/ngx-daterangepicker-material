@@ -14,7 +14,7 @@ This plugin have an independant theme which looks more close to material design,
 
 ![](screen.png)
 
-demo:  https://fetrarij.github.io/ngx-daterangepicker-material/
+demos:  https://fetrarij.github.io/ngx-daterangepicker-material/
 
 ## Installation
 
